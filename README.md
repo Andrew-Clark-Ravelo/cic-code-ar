@@ -13,8 +13,8 @@ Code which generates these files can be found here: https://github.com/UniCourt/
 
 Original RTF files can be found here: https://archive.org/download/gov.ar.code
 
-The Standardised HTMLs can be found here: 
+The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ar/ 
 
 ###### Other state Codes:
 
-**Georgia (GA):** https://github.com/UniCourt/cic-code-ga
+**Georgia (GA):** https://unicourt.github.io/cic-code-ga
