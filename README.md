@@ -18,3 +18,5 @@ The Standardised HTMLs can be found here: https://unicourt.github.io/cic-code-ar
 ###### Other state Codes:
 
 **Georgia (GA):** https://unicourt.github.io/cic-code-ga
+
+**Mississippi (MS):** https://unicourt.github.io/cic-code-ms
